@@ -17,30 +17,12 @@ This project is under active development, with plans for **biometric voice ident
 
 ---
 
-## 📦 Project Structure
-
-```
-/grit.ai
-├── data/
-│   └── sample-transcript.json    # Example output data
-├── src/
-│   ├── capture/                   # Audio capture and preprocessing
-│   ├── processing/                # API communication and post-processing
-│   ├── utils/                     # Helper utilities (debounce logic, error handling, etc.)
-│   └── models/                    # (Future) Speaker voice models and data structures
-├── tests/                         # Unit and integration tests
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## 🛠️ Installation
 
 ```bash
 git clone https://github.com/your-username/grit-ai-voice-transcription.git
 cd grit-ai-voice-transcription
-pip install -r requirements.txt
+npm install
 ```
 
 ---
@@ -50,7 +32,7 @@ pip install -r requirements.txt
 1. **Run the Application**:
 
 ```bash
-python src/main.py
+node transcript-processor/index.js -b b84e6049-45dc-4fba-a1d6-def15cd36584 -s grit.ai-working-sheet.csv
 ```
 
 2. **Record or Upload Audio**:
