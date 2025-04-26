@@ -1,0 +1,93 @@
+# Conversation Transcript
+
+Edrian Bertulfo: Hello? Hello?
+Edrian Bertulfo: Hello?
+Edrian Bertulfo: Hello?
+Edrian Bertulfo: Are you okay
+Edrian Bertulfo: Okay. Now we have it working.
+Edrian Bertulfo: Oh, wow.
+Edrian Bertulfo: Also,
+Edrian Bertulfo: Yeah.
+Edrian Bertulfo: Right. So we try Have you tried, like, this one?
+Edrian Bertulfo: We have it in our terminal.
+Edrian Bertulfo: Let me send so what happened? Answer?
+Edrian Bertulfo: Sorry? Or did you done some?
+Edrian Bertulfo: Sorry?
+Edrian Bertulfo: By the in the channel or what? In the chat. Yeah.
+Edrian Bertulfo: You wanna share the link?
+Edrian Bertulfo: So data wise,
+Edrian Bertulfo: it calls an API
+Edrian Bertulfo: looks like it's debounced.
+Edrian Bertulfo: Then it sends you an array of words.
+Edrian Bertulfo: Then it has confidence and stuff, but that's not really relevant to us.
+Edrian Bertulfo: To Andy?
+grit.ai.sue: So I just we can just
+grit.ai.sue: Okay.
+grit.ai.sue: So the
+grit.ai.sue: But then this
+grit.ai.sue: doesn't work when we were
+grit.ai.sue: in the same
+grit.ai.sue: Because if
+grit.ai.sue: if you're talking
+grit.ai.sue: your voice gets picked up by my Zuma
+grit.ai.sue: Then what can I
+grit.ai.sue: saying would appear under
+grit.ai.sue: Yeah?
+grit.ai.sue: So bad now.
+grit.ai.sue: Okay.
+grit.ai.sue: I have item issue is
+grit.ai.sue: Right?
+grit.ai.sue: Yeah. So
+grit.ai.sue: you try to speak in my mind.
+grit.ai.sue: And then see whether You see?
+grit.ai.sue: Yeah. So it says
+grit.ai.sue: good that a hundred
+Edrian Bertulfo: Okay. So it's actually
+grit.ai.sue: just different shape than my
+grit.ai.sue: input
+grit.ai.sue: of the mic.
+grit.ai.sue: Yeah. Yeah. So this doesn't really work.
+grit.ai.sue: In a columns, Kevin.
+grit.ai.sue: Yeah. So it don't have the voice fingerprint.
+grit.ai.sue: It does, but then it's not
+grit.ai.sue: I think it's
+grit.ai.sue: basic of
+grit.ai.sue: where
+grit.ai.sue: the sound is coming from, which account
+grit.ai.sue: But there is a there is just a info sauce.
+grit.ai.sue: Right? Yeah. The
+grit.ai.sue: the sauce we
+grit.ai.sue: can hack to the sauce, not
+grit.ai.sue: yeah, not the widest band then.
+grit.ai.sue: Like, it's not the
+grit.ai.sue: it cannot be the biometrics
+grit.ai.sue: Shit. The the transcript is
+grit.ai.sue: in the columns
+grit.ai.sue: Can you when did you say that?
+grit.ai.sue: The accuracy of the trans
+grit.ai.sue: gate is not ready. It's NTS.
+grit.ai.sue: What would you say?
+grit.ai.sue: What
+grit.ai.sue: would you say?
+grit.ai.sue: We didn't say that.
+grit.ai.sue: We didn't say anything like that.
+grit.ai.sue: Yeah. They're right. We don't source
+grit.ai.sue: Yeah. Not the white list.
+grit.ai.sue: Band then. What the fuck is that?
+grit.ai.sue: So
+grit.ai.sue: maybe it should try, let's
+grit.ai.sue: more
+grit.ai.sue: I think it's something to do with the ax.
+grit.ai.sue: And
+grit.ai.sue: And so we have different accent.
+grit.ai.sue: Well, that's the thing. I'm probably
+grit.ai.sue: Yeah. So what would we do with my spending?
+grit.ai.sue: Yeah.
+grit.ai.sue: How do you do that?
+grit.ai.sue: If
+grit.ai.sue: to Venus Deepgram
+grit.ai.sue: Oh,
+grit.ai.sue: we can use
+grit.ai.sue: the WebSocket.
+grit.ai.sue: Live audio.
+grit.ai.sue: Ten thirty to eleven
