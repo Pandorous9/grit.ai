@@ -29,18 +29,13 @@ npm install
 
 ## 🧩 Usage
 
-1. **Run the Application**:
-
+1. Wrap up a meeting where the MeetStream.ai Bot has transcribed for
+2. **Run the Application**:
 ```bash
-node transcript-processor/index.js -b b84e6049-45dc-4fba-a1d6-def15cd36584 -s grit.ai-working-sheet.csv
+node transcript-processor/index.js -b <MeetStream.io Bot ID> -s <File name of the working CSV file>
 ```
-
-2. **Record or Upload Audio**:
-   - Real-time mic input (default)
-   - (Planned) Audio file upload
-   
-3. **Receive Transcript**:
-   - Processed JSON output with timestamps, speakers, and confidence per word.
+3. **Receive New Customer Data**:
+   - The data extracted from the transcript would be inserted into the working CSV
 
 ---
 
